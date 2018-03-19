@@ -3,7 +3,7 @@ from tensorflow.contrib.slim.nets import vgg
 from tensorflow.python.ops import variables
 from tensorflow.python.ops import random_ops
 from tensorflow.python.framework.ops import convert_to_tensor
-\
+
 
 if __name__ == '__main__':
     batch_size = 1
